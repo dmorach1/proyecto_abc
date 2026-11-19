@@ -26,3 +26,12 @@ Este es otro ejemplo de _**Texto combinado**_
 * Rojo
 * Verde
 
+# Ejemplo de una lista enumerada: Jugadores de futbol
+1. CR7
+2. Messi
+3. Neymar
+4. Vini
+5. Doue
+6. Lucho Diaz
+1.
+
