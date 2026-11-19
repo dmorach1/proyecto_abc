@@ -64,6 +64,11 @@ print ("hola")
 print ("Esto es un ejemplo de codigo en python")
 ```powershell
 Remove item -Recurse hola.txt
-
-   
-
+```
+# Ejemplo de tabla: Tabla de verde XOR
+A | B | A XOR B 
+--|---|--------
+1 | 1 |   0
+1 | 0 |   1 
+0 | 1 |   1
+0 | 0 |   0
