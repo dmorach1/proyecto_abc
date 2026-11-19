@@ -43,6 +43,12 @@ Este es otro ejemplo de _**Texto combinado**_
   * Europa
   * Io
 * Saturno
-  * Titan  
+  * Titan
+
+ # Ejemplo de una checklist : obtener el pasaporte
+ - [] Sacar cita
+ - [] Pagar los derechos
+ - [] Asistir a la cita y tomarse la foto
+ - [] Esperar a que salga el pasaporte
    
 
