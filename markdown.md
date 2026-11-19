@@ -46,9 +46,9 @@ Este es otro ejemplo de _**Texto combinado**_
   * Titan
 
  # Ejemplo de una checklist : obtener el pasaporte
- - [] Sacar cita
- - [] Pagar los derechos
- - [] Asistir a la cita y tomarse la foto
+ - [x] Sacar cita
+ - [x] Pagar los derechos
+ - [x] Asistir a la cita y tomarse la foto
  - [] Esperar a que salga el pasaporte
    
 
