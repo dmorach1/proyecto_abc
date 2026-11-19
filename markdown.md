@@ -59,10 +59,10 @@ mis estudiantes dijeron>
 
 # Ejemplo de codigo
 codigo en python
-'''python
+"""python
 print ("hola")
 print ("Esto es un ejemplo de codigo en python")
-'''powershell
+"""powershell
 Remove item -Recurse hola.txt
 
    
