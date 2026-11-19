@@ -49,6 +49,12 @@ Este es otro ejemplo de _**Texto combinado**_
  - [x] Sacar cita
  - [x] Pagar los derechos
  - [x] Asistir a la cita y tomarse la foto
- - [] Esperar a que salga el pasaporte
+ - [ ] Esperar a que salga el pasaporte
+
+# Ejemplo de citacion
+mis estudiantes dijeron> 
+> Profe, ya compro el GTA VI?
+> Por que no?
+> Si es un juego buenísimo!!
    
 
