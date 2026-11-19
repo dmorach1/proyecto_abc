@@ -56,5 +56,14 @@ mis estudiantes dijeron>
 > Profe, ya compro el GTA VI?
 > Por que no?
 > Si es un juego buenísimo!!
+
+# Ejemplo de codigo
+codigo en python
+'''python
+print ("hola")
+print ("Esto es un ejemplo de codigo en python")
+'''powershell
+Remove item -Recurse hola.txt
+
    
 
