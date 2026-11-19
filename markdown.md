@@ -18,3 +18,11 @@ Este es un ejemplo de **texto en negrillas**
 
 Este es otro ejemplo de __texto en negrillas__
 
+Este es otro ejemplo de _**Texto combinado**_
+
+# Ejemplo de lista con viñetas: lista de colores
+* Amarrillo
+* Azul
+* Rojo
+* Verde
+
