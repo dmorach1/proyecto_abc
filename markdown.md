@@ -33,5 +33,5 @@ Este es otro ejemplo de _**Texto combinado**_
 4. Vini
 5. Doue
 6. Lucho Diaz
-1.
+
 
