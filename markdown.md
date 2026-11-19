@@ -34,4 +34,15 @@ Este es otro ejemplo de _**Texto combinado**_
 5. Doue
 6. Lucho Diaz
 
+# Ejemplo de una lista con varios niveles: Planetas y sus lunas
+* Tierra
+  * Luna
+* Jupiter
+  * Calisto
+  * Gunimedes
+  * Europa
+  * Io
+* Saturno
+  * Titan  
+   
 
